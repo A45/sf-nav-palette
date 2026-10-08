@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.zip
+*.log
+.env
+.env.*
+*.pem
+*.crx
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/

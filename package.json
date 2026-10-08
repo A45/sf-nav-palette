@@ -1,0 +1,12 @@
+{
+  "name": "sf-nav-palette",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Browser extension: drill-down command palette for Salesforce admin navigation",
+  "scripts": {
+    "test": "node --test \"test/*.test.js\"",
+    "icons": "node scripts/make-icons.mjs",
+    "build": "node scripts/build.mjs"
+  }
+}
